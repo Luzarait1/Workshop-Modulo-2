@@ -11,11 +11,6 @@ public class Carro {
         this.modelo = modelo;
     }
 
-    public void parquearCarro() {
-        
-        System.out.println();
-    }
-
     public String getPlaca() {
         return placa;
     }
